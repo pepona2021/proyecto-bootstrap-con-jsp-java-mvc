@@ -1,4 +1,4 @@
-# proyecto-bootstrap-con-css-jsp-java-mvc
+# proyecto-bootstrap-con-css-jsp-java-mvc-js
 
 es una adaptacion a la realizacion de video de youtube
 
